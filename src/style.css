@@ -410,6 +410,31 @@ p {
     width: 180px;
     height: 130px;
   }
+  /* contact page */
+  .contact-page-h2 {
+    color: whitesmoke;
+    font-family: var(--text-font);
+    font-style: italic;
+    margin-bottom: 30px;
+  }
+  .contact-page-text {
+    padding: 30px 0px;
+  }
+  .contact-page-text img {
+    width: 25px;
+    height: 25px;
+    margin: 10px 0px;
+  }
+  .contact-page-text a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+    font-family: var(--link-font-family);
+  }
+  /* footer starts */
+  #contact-container {
+    padding-bottom: 50px;
+  }
   .footer-content {
     padding-bottom: 30px;
   }
