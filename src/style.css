@@ -342,7 +342,10 @@ p {
   }
 
   .divider-line {
-    flex-grow: 0.4;
+    flex-grow: 0.35;
+  }
+  .divider-line-in-text {
+    flex-grow: 1;
   }
   .about-2 {
     margin-top: 0px;
